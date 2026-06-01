@@ -16,7 +16,7 @@ This project is a great way to explore web APIs and build accessible, interactiv
 
 ## 📸 Project Preview
 
-![Project Screenshot](project.png)
+![Project Screenshot](screenshots/Home.png)
 
 ---
 
